@@ -1,0 +1,73 @@
+[
+    {
+        "char" : "Amazon",
+        "short" : "amz",
+        "classes" : "亚马逊",
+        "char_id" : 1,
+        "skill" : [
+            {
+                "tab" : "BowandCrossbow",
+                "depict" : "弓箭技能",
+                "tab_id" : 1,
+                "item" : [
+                    {
+                        "id" : 6,
+                        "mate" : "Magic Arrow",
+                        "name" : "魔法箭"                
+                    },{
+                        "id" : 7,
+                        "mate" : "Fire Arrow",
+                        "name" : "火焰箭"
+                    },{
+                        "id" : 8,
+                        "mate" : "Cold Arrow",
+                        "name" : "冰箭"
+                    },{
+                        "id" : 12,
+                        "mate" : "",
+                        "name" : ""
+                    },
+                    {
+                        "id" : 16,
+                        "mate" : ""
+                    }
+                ]
+            },{
+                    "tab" : "",
+                    "depict" : "",
+                    "tab_id" : 2,
+                    "item" : [
+                        {
+                            "id" : ""
+                        },{
+
+                        },{
+
+                        }
+                    ]
+            },{
+
+            }
+        ]
+    },{
+        "char" : "Necromancer",
+        "short" : "nec",
+        "classes" : "死灵法师",
+        "char_id" : 2,
+        "skill" : [
+            {
+
+            },{
+
+            },{
+
+            }
+        ]
+    },{
+        "char" : ""
+    },{
+        "char" : ""
+    },{
+
+    }
+]

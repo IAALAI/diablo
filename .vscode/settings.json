@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.hsg": "html",
+        "*.wxml": "html",
+        "*.wxss": "css",
+        "*.conf": "shellscript",
+        "xiosbase": "cpp"
+    }
+}
