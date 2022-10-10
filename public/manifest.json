@@ -1,0 +1,8 @@
+{
+    "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+    "name": "d3planner",
+    "short_name": "d3planner",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#221"
+}

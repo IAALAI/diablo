@@ -1,0 +1,3 @@
+class chars_save {
+    
+}
